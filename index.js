@@ -57,7 +57,7 @@ HTCrawler.crawl()
 
 console.log(new Date().toDateString(), " - RestockBot has come Online");
 
-notify([makersNumber, /* alertNumber */], `${new Date().toDateString()}
+notify([makersNumber, alertNumber], `${new Date().toDateString()}
 RestockBot has come Online
 
 Watching for size: ${String(size).toUpperCase()}
