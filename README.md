@@ -1,6 +1,6 @@
 # RestockBot
 
-A simple web crawler to check for stock availability a specific size of an item on the Hot Topic website.
+A simple web crawler to check for stock availability of a specific size of an item on the Hot Topic website.
 
 Utilizes:
   - Axios
